@@ -1,0 +1,78 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+database_engine
+database_engine.exe
+*.exe
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Static and dynamic libraries
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Build directories
+build/
+bin/
+obj/
+
+# IDE files
+.vscode/
+.vs/
+*.vcxproj*
+*.sln
+*.suo
+*.user
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*~
+*.swp
+*.swo
+*.tmp
+
+# Log files
+*.log
+
+# Documentation build
+docs/html/
+docs/latex/
+
+# Test output
+test_output/
+*.test
+
+# Coverage files
+*.gcov
+*.gcda
+*.gcno
+
+# Profiling files
+gmon.out
+*.prof
+
+# Package files
+*.tar.gz
+*.zip
+*.rar
+
+# Local configuration
+config.local
+.env
